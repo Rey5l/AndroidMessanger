@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1096958401022",
+    "firebase_url": "https://w1ndchat-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "w1ndchat",
+    "storage_bucket": "w1ndchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096958401022:android:615d80c5959059afa708af",
+        "android_client_info": {
+          "package_name": "com.reysl.wind_online_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcHXGib4U7R9oKQR9UMfU_IctMCoo7TOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
